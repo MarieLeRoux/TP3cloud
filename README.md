@@ -1,5 +1,7 @@
 # TP3 Cloud: Déploiement d'une autorité de certification Vault avec Packer, Terraform et Scaleway 
 
+### Rendu commun Thibaud Robin/Marie Le Roux
+
 ## Prérequis 
 
 * Installation de Packer et Terraform sur votre machine locale. 
@@ -39,3 +41,5 @@ https://www.digitalocean.com/community/tutorials/how-to-build-a-hashicorp-vault-
 https://learn.hashicorp.com/tutorials/packer/get-started-install-cli
   
 https://www.decodingdevops.com/how-to-install-terraform-on-windows-10-or-8-or-7-decodingdevops/
+  
+
