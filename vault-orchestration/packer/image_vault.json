@@ -1,0 +1,17 @@
+{
+     "builders": [{
+       "type": "scaleway",
+       "project_id": "votre id projet",
+       "access_key": "votre clé d'accès",
+       "secret_key": "votre clé secrète",
+       "image": "ubuntu_focal",
+       "zone": "fr-par-1",
+       "commercial_type": "DEV1-S",
+       "ssh_username": "root"
+       }],
+
+     "provisioners": [{
+         "type": "shell",
+         "script": "config_vault.sh"
+     }]
+}
