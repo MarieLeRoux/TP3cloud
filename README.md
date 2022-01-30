@@ -29,6 +29,13 @@ Vous avez maintenant accès à votre autorité de certification Vault, vous pouv
 ## Bibliographie 
 
 https://jeremiegoldberg.com/linfra-as-code-cest-facile/
+  
 https://www.vaultproject.io/docs/configuration
+  
 https://www.packer.io/plugins/builders/scaleway
+  
 https://www.digitalocean.com/community/tutorials/how-to-build-a-hashicorp-vault-server-using-packer-and-terraform-on-digitalocean-quickstart-fr
+
+https://learn.hashicorp.com/tutorials/packer/get-started-install-cli
+  
+https://www.decodingdevops.com/how-to-install-terraform-on-windows-10-or-8-or-7-decodingdevops/
