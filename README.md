@@ -27,6 +27,8 @@
 * Une fois votre instance initialisée sur Scaleway, vous pouvez vous connecter en ssh au serveur Vault grâce à la clé privée associée à la clé publique donnée à Scaleway via la commande ssh root@<IP publique instance> 
   
 Vous avez maintenant accès à votre autorité de certification Vault, vous pouvez dès à présent générer des certificats pour protéger vos données.
+ 
+Le coût éstimé à l'année de cette instance est de 87.60€
 
 ## Bibliographie 
 
